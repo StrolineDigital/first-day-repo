@@ -29,3 +29,8 @@ p {
     margin-right: 350px;
     margin-left: 50px;
 }
+a:link {
+    color: rgb(76, 151, 250);
+    background-color: transparent;
+    text-decoration: none;
+  }
